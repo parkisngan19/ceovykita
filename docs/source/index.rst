@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+CEO Vỹ Kita Và Hành Trình Tạo Ra Net88 Đầy Nổi Tiếng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Vỹ Kita <https://net88vietnam.co/ceo-vy-kita/>`_ người sáng lập và lãnh đạo Net88, đã biến tầm nhìn về một nền tảng chơi game trực tuyến an toàn, minh bạch và chất lượng cao thành hiện thực. Với xuất phát điểm từ lĩnh vực công nghệ thông tin và kinh nghiệm làm việc tại các tập đoàn lớn, ông đã tận dụng kiến thức và đam mê công nghệ để xây dựng Net88 thành một trong những sân chơi hàng đầu châu Á. Tầm nhìn chiến lược, sự đổi mới và khả năng lãnh đạo xuất sắc của Vỹ Kita không chỉ đưa Net88 phát triển vượt bậc mà còn tạo ra những xu hướng tích cực trong ngành chơi game trực tuyến, mang lại giá trị bền vững cho cộng đồng người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 777 Đ. Kinh Dương Vương, An Lạc, Bình Tân, Hồ Chí Minh 700000, Việt Nam. 
 
-   This project is under active development.
+Phone: 0756542812. 
 
-Contents
---------
+Email: contact@net88vietnam.co. 
 
-.. toctree::
+Website: https://net88vietnam.co/ceo-vy-kita/ 
 
-   usage
-   api
+#vykita #ceovykita #ceovykita_net88
